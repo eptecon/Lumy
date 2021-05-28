@@ -6,12 +6,12 @@ Lumy is a smart connected LED lighting system comprising multiple interconnectab
 
 ### Hardware
 
-Lumy hardware contains of following modules:
+Lumy hardware comprises following modules:
 
-- LumyCtrl Module contains power supply, main microcontroller (ATMega328P) interface to WiFi module and interface to LED driver
-- LumyDrv Module contains 3x TI LM3404 LED driver with 1.2A output each
-- LumyLight Module can be populated with up to 12 LEDs arranged in 3 separate strings with up to 4 LEDs each
-- LumySens Module contains ambient light sensor TSL2591 and can be populated with other 
+- LumyCtrl Module: power supply, main microcontroller (ATMega328P) interface to WiFi module and interface to LED driver
+- LumyDrv Module: 3x TI LM3404 LED driver with 1.2A output each
+- LumyLight Module: LED carrier board, can be populated with up to 12 LEDs arranged in 3 separate strings with up to 4 LEDs each
+- LumySens Module: ambient light sensor TSL2591 and can be populated with other 
 
 
 ### Firmware
