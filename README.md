@@ -11,7 +11,7 @@ Lumy hardware comprises following modules:
 - LumyCtrl: power supply, main microcontroller (ATMega328P) interface to WiFi module and interface to LED driver
 - LumyDrv: 3x TI LM3404 LED driver with 1.2A output each
 - LumyLight: LED carrier board, can be populated with up to 12 Cree high power LEDs arranged in 3 separate strings with up to 4 LEDs each
-- LumySense: ambient light sensor TSL2591 and can be populated with other 
+- LumySense: ambient light sensor TSL2591  
 
 
 ### Firmware
