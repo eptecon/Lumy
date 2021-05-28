@@ -1,7 +1,7 @@
 /*************************************************************************
 Title:    Lumy Control - Control of 3x TI LM3404 LED Driver over WiFi with Wifly module (RN-VX)
 Author:   EP
-File:     $Id: Lumy.c,v 1.0 2014/07/10 11:46:30 $
+File:     $Id: Lumy.c,v 1.0 2013/07/10 11:46:30 $
 Software: AVR-GCC 4.1
 Hardware: ATmega328P at 8 Mhz, 
 
