@@ -1,0 +1,16 @@
+Stückliste exportiert aus C:/Users/Murzilka/Projektdaten/Eagle/Lumilabs/LumyDrv/lumy.sch am 13.10.2013 14:08:06
+
+Bestückungsvariante: 
+
+Menge Wert       Device     Bauteile              
+2                FE05-1     SV1, SV2              
+4     0R33       R-EU_R1206 RSN1, RSN2, RSN3, RSN4
+4     1µ         C-EUC1206  CO1, CO2, CO3, CO4    
+4     4µ7        C-EUC0603  CI1, CI2, CI3, CI4    
+4     10n        C-EUC0603  CB1, CB2, CB3, CB4    
+4     22µ        DR73       L1, L2, L3, L4        
+4     48k7       R-EU_R0805 RON1, RON2, RON3, RON4
+4     100n       C-EUC0603  CBY1, CBY2, CBY3, CBY4
+4     87758-0216 87758-0216 X10, X20, X30, X40    
+4     LM3404     LM3404     IC1, IC2, IC3, IC4    
+4     MBRA340T3  MBRA340T3  D1, D2, D3, D4        

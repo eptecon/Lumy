@@ -1,0 +1,47 @@
+Stückliste exportiert aus C:/Users/Murzilka/Projektdaten/Eagle/Lumilabs/LumyDrv/lumy.sch am 13.10.2013 14:07:51
+
+Bestückungsvariante: 
+
+Bauteil Wert       Device     Package    Description                                                    
+CB1     10n        C-EUC0603  C0603      CAPACITOR, European symbol                                     
+CB2     10n        C-EUC0603  C0603      CAPACITOR, European symbol                                     
+CB3     10n        C-EUC0603  C0603      CAPACITOR, European symbol                                     
+CB4     10n        C-EUC0603  C0603      CAPACITOR, European symbol                                     
+CBY1    100n       C-EUC0603  C0603      CAPACITOR, European symbol                                     
+CBY2    100n       C-EUC0603  C0603      CAPACITOR, European symbol                                     
+CBY3    100n       C-EUC0603  C0603      CAPACITOR, European symbol                                     
+CBY4    100n       C-EUC0603  C0603      CAPACITOR, European symbol                                     
+CI1     4µ7        C-EUC0603  C0603      CAPACITOR, European symbol                                     
+CI2     4µ7        C-EUC0603  C0603      CAPACITOR, European symbol                                     
+CI3     4µ7        C-EUC0603  C0603      CAPACITOR, European symbol                                     
+CI4     4µ7        C-EUC0603  C0603      CAPACITOR, European symbol                                     
+CO1     1µ         C-EUC1206  C1206      CAPACITOR, European symbol                                     
+CO2     1µ         C-EUC1206  C1206      CAPACITOR, European symbol                                     
+CO3     1µ         C-EUC1206  C1206      CAPACITOR, European symbol                                     
+CO4     1µ         C-EUC1206  C1206      CAPACITOR, European symbol                                     
+D1      MBRA340T3  MBRA340T3  SMA        Surface Mount Schottky Power Rectifier                         
+D2      MBRA340T3  MBRA340T3  SMA        Surface Mount Schottky Power Rectifier                         
+D3      MBRA340T3  MBRA340T3  SMA        Surface Mount Schottky Power Rectifier                         
+D4      MBRA340T3  MBRA340T3  SMA        Surface Mount Schottky Power Rectifier                         
+IC1     LM3404     LM3404     SO08       1A Constant Current Buck  Regulator for driving High Power LEDs
+IC2     LM3404     LM3404     SO08       1A Constant Current Buck  Regulator for driving High Power LEDs
+IC3     LM3404     LM3404     SO08       1A Constant Current Buck  Regulator for driving High Power LEDs
+IC4     LM3404     LM3404     SO08       1A Constant Current Buck  Regulator for driving High Power LEDs
+L1      22µ        DR73       DR73       High Power Density, High Efficiency, Shielded Inductors        
+L2      22µ        DR73       DR73       High Power Density, High Efficiency, Shielded Inductors        
+L3      22µ        DR73       DR73       High Power Density, High Efficiency, Shielded Inductors        
+L4      22µ        DR73       DR73       High Power Density, High Efficiency, Shielded Inductors        
+RON1    48k7       R-EU_R0805 R0805      RESISTOR, European symbol                                      
+RON2    48k7       R-EU_R0805 R0805      RESISTOR, European symbol                                      
+RON3    48k7       R-EU_R0805 R0805      RESISTOR, European symbol                                      
+RON4    48k7       R-EU_R0805 R0805      RESISTOR, European symbol                                      
+RSN1    0R33       R-EU_R1206 R1206      RESISTOR, European symbol                                      
+RSN2    0R33       R-EU_R1206 R1206      RESISTOR, European symbol                                      
+RSN3    0R33       R-EU_R1206 R1206      RESISTOR, European symbol                                      
+RSN4    0R33       R-EU_R1206 R1206      RESISTOR, European symbol                                      
+SV1                FE05-1     FE05-1     FEMALE HEADER                                                  
+SV2                FE05-1     FE05-1     FEMALE HEADER                                                  
+X10     87758-0216 87758-0216 87758-0216 2 Pin - 2mm Dual Row Single Wafer, Vertical T/H HDR            
+X20     87758-0216 87758-0216 87758-0216 2 Pin - 2mm Dual Row Single Wafer, Vertical T/H HDR            
+X30     87758-0216 87758-0216 87758-0216 2 Pin - 2mm Dual Row Single Wafer, Vertical T/H HDR            
+X40     87758-0216 87758-0216 87758-0216 2 Pin - 2mm Dual Row Single Wafer, Vertical T/H HDR            
