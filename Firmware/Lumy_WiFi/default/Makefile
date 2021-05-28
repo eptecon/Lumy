@@ -3,9 +3,9 @@
 ###############################################################################
 
 ## General Flags
-PROJECT = Wiflycomm
+PROJECT = Lumy
 MCU = atmega328p
-TARGET = Wiflycomm.elf
+TARGET = Lumy.elf
 CC = avr-gcc
 
 CPP = avr-g++
@@ -25,7 +25,7 @@ ASMFLAGS += -x assembler-with-cpp -Wa,-gdwarf2
 
 ## Linker flags
 LDFLAGS = $(COMMON)
-LDFLAGS +=  -Wl,-Map=Wiflycomm.map
+LDFLAGS +=  -Wl,-Map=Lumy.map
 
 
 ## Intel Hex file production flags
@@ -37,25 +37,22 @@ HEX_EEPROM_FLAGS += --change-section-lma .eeprom=0 --no-change-warnings
 
 
 ## Objects that must be built in order to link
-OBJECTS = Wiflycomm.o uart.o wifly1.o wifly.o 
+OBJECTS = Lumy.o uart.o wifly1.o 
 
 ## Objects explicitly added by the user
 LINKONLYOBJECTS = 
 
 ## Build
-all: $(TARGET) Wiflycomm.hex Wiflycomm.eep Wiflycomm.lss size
+all: $(TARGET) Lumy.hex Wiflycomm.eep Wiflycomm.lss size
 
 ## Compile
-Wiflycomm.o: ../Wiflycomm.c
+Wiflycomm.o: ../Lumy.c
 	$(CC) $(INCLUDES) $(CFLAGS) -c  $<
 
 uart.o: ../uart.c
 	$(CC) $(INCLUDES) $(CFLAGS) -c  $<
 
 wifly1.o: ../wifly1.c
-	$(CC) $(INCLUDES) $(CFLAGS) -c  $<
-
-wifly.o: ../wifly.c
 	$(CC) $(INCLUDES) $(CFLAGS) -c  $<
 
 ##Link
@@ -78,7 +75,7 @@ size: ${TARGET}
 ## Clean target
 .PHONY: clean
 clean:
-	-rm -rf $(OBJECTS) Wiflycomm.elf dep/* Wiflycomm.hex Wiflycomm.eep Wiflycomm.lss Wiflycomm.map
+	-rm -rf $(OBJECTS) Lumy.elf dep/* Wiflycomm.hex Lumy.eep Lumy.lss Lumy.map
 
 
 ## Other dependencies
