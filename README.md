@@ -3,6 +3,7 @@ Lumy: Smart Connected LED Lighting System
 
 Lumy is a smart connected LED lighting system comprising multiple interconnectable modules.
 
+![alt text](Documentaiton/lumy_system.png) 
 
 ### Hardware
 
